@@ -39,3 +39,9 @@ pulseapi/.gaedata/*
 pulseapi/app.yaml
 pulseapi/static/robots.txt
 pulseapi/.idea*
+
+*.iml
+
+target
+
+.idea
